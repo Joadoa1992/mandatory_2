@@ -1,4 +1,6 @@
 node_modules
+auth_system.db
+auth_system.db-journal
 .env
 .DS_Store
 # Logs
