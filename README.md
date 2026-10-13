@@ -1,3 +1,8 @@
+This is where i made encryption for login in node.js
+server/index.js is where all the encryption happens 
+
+
+How to run:
 mandatory_2/server
 npm install
 node index.js
