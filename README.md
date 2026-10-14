@@ -1,5 +1,13 @@
-This is where i made encryption for login in node.js
-server/index.js is where all the encryption happens 
+Secure Node.js Authentication API
+A security-focused Node.js backend built to handle secure registration and login flows.
+
+Key Features & Tech Stack:
+
+Password Encryption: Uses bcrypt to salt and hash passwords securely.
+
+Token-Based Auth: Generates jsonwebtoken (JWT) for secure user login sessions.
+
+Server & Utilities: Built with Express, featuring cors handling, dotenv configuration, and an automated mailer module (mailer.js).
 
 
 How to run:
